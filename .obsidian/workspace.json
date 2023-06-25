@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b686cd9a955c5d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Конституция Доброго Утра.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb6dee67ed4fa54f",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/График уборки.md",
+                "file": "content/notes/Конституция Доброго Утра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/График уборки.md",
+                "file": "content/notes/Конституция Доброго Утра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/График уборки.md"
+                "file": "content/notes/Конституция Доброго Утра.md"
               }
             }
           }
@@ -158,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b03b695d75ee108",
+  "active": "b686cd9a955c5d34",
   "lastOpenFiles": [
+    "content/notes/График уборки.md",
     "content/notes/Министерство Чистоты.md",
     "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
-    "content/notes/График уборки.md",
     "content/notes/Конституция Доброго Утра.md",
     "content/notes/test.md",
     "content/_index.md",
