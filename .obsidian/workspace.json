@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
-                "mode": "source",
+                "file": "content/notes/Конституция Доброго Утра.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/Конституция Доброго Утра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/Конституция Доброго Утра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md"
+                "file": "content/notes/Конституция Доброго Утра.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "1b03b695d75ee108",
   "lastOpenFiles": [
-    "content/notes/Личное пространство.md",
     "content/_index.md",
+    "content/notes/Конституция Доброго Утра.md",
+    "content/notes/Министерство Чистоты.md",
+    "content/notes/Личное пространство.md",
     "content/notes/Кодекс Коммунаров.md",
     "content/notes/attachments",
     "content/private/attachments/Министерство Чистоты.pdf",
-    "content/notes/Министерство Чистоты.md",
     "content/host.cert",
     "content/config.json",
     "content/private/attachments"

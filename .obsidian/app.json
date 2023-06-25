@@ -2,5 +2,7 @@
   "attachmentFolderPath": "content/notes/attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "trashOption": "local"
 }
