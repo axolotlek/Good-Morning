@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Министерство Чистоты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Министерство Чистоты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Министерство Чистоты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Министерство Чистоты.md"
               }
             }
           }
@@ -148,13 +148,12 @@
   },
   "active": "1b03b695d75ee108",
   "lastOpenFiles": [
-    "content/notes/Кодекс Коммунаров.md",
-    "content/notes/attachments",
-    "content/_index.md",
-    "content/private/attachments/Министерство Чистоты.pdf",
-    "content/notes/Министерство Чистоты.md",
     "content/notes/Личное пространство.md",
     "content/_index.md",
+    "content/notes/Кодекс Коммунаров.md",
+    "content/notes/attachments",
+    "content/private/attachments/Министерство Чистоты.pdf",
+    "content/notes/Министерство Чистоты.md",
     "content/host.cert",
     "content/config.json",
     "content/private/attachments"
