@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md",
-                "mode": "preview",
+                "file": "content/notes/График уборки.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md",
+                "file": "content/notes/График уборки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md",
+                "file": "content/notes/График уборки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md"
+                "file": "content/notes/График уборки.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   },
   "active": "b686cd9a955c5d34",
   "lastOpenFiles": [
-    "content/notes/График уборки.md",
+    "content/_index.md",
     "content/notes/Министерство Чистоты.md",
+    "content/notes/Конституция Доброго Утра.md",
+    "content/notes/График уборки.md",
     "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
-    "content/notes/Конституция Доброго Утра.md",
     "content/notes/test.md",
-    "content/_index.md",
     "content/notes/Личное пространство.md",
     "content/notes/Кодекс Коммунаров.md",
     "content/notes/attachments",
