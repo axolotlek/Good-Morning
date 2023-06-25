@@ -1,6 +1,6 @@
 baseURL = "https://axolotlek.github.io/Good-Morning/"
 languageCode = "en-us"
-relativeURLs = true
+relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
