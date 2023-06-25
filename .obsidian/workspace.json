@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Личное пространство.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Личное пространство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Личное пространство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Личное пространство.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b03b695d75ee108",
+  "active": "4baa6f248148d900",
   "lastOpenFiles": [
-    "content/notes/Конституция Доброго Утра.md",
     "content/_index.md",
+    "content/notes/Кодекс Коммунаров.md",
+    "content/notes/Конституция Доброго Утра.md",
     "content/notes/Министерство Чистоты.md",
     "content/notes/Личное пространство.md",
-    "content/notes/Кодекс Коммунаров.md",
     "content/notes/attachments",
     "content/private/attachments/Министерство Чистоты.pdf",
     "content/host.cert",
