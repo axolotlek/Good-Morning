@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
-                "mode": "preview",
+                "file": "content/notes/График уборки.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/График уборки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/График уборки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md"
+                "file": "content/notes/График уборки.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "1b03b695d75ee108",
   "lastOpenFiles": [
-    "content/notes/закупки/_закупки.md",
     "content/notes/Министерство Чистоты.md",
+    "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
     "content/notes/График уборки.md",
