@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/График уборки.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/График уборки.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/График уборки.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/График уборки.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b686cd9a955c5d34",
+  "active": "4baa6f248148d900",
   "lastOpenFiles": [
+    "content/notes/График уборки.md",
     "content/_index.md",
     "content/notes/Министерство Чистоты.md",
     "content/notes/Конституция Доброго Утра.md",
-    "content/notes/График уборки.md",
     "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
