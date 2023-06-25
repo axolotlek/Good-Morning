@@ -1,0 +1,101 @@
+{
+  "log": {
+    "loglevel": "error"
+  },
+  "inbounds": [
+    {
+      "port": 443,
+      "protocol": "vmess",
+      "allocate": {
+        "strategy": "always"
+      },
+      "settings": {
+        "clients": [
+          {
+            "id": "84b8b534-2d1a-4558-93de-7fe26d2f0dc3",
+            "level": 1,
+            "alterId": 0,
+            "email": "client@example.com"
+          }
+        ],
+        "disableInsecureEncryption": true
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "http/1.1"
+          ],
+          "certificates": [
+            {
+              "certificateFile": "/etc/xray/host.cert",
+              "keyFile": "/etc/xray/host.key"
+            }
+          ]
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "http",
+            "request": {
+              "version": "1.1",
+              "status": "200",
+              "reason": "OK",
+              "headers": {
+                "Content-Type": [
+                  "application/pdf",
+                  "application/xhtml+xml",
+                  "application/x-shockwave-flash",
+                  "application/json",
+                  "application/ld+json",
+                  "application/xml",
+                  "application/zip",
+                  "application/x-www-form-urlencoded",
+                  "image/gif",
+                  "image/jpeg",
+                  "image/png",
+                  "image/tiff",
+                  "image/vnd.microsoft.icon",
+                  "image/x-icon",
+                  "image/vnd.djvu",
+                  "image/svg+xml",
+                  "multipart/mixed",
+                  "multipart/alternative",
+                  "multipart/related",
+                  "multipart/form-data",
+                  "text/css",
+                  "text/csv",
+                  "text/html",
+                  "text/plain",
+                  "text/xml"
+                ],
+                "Transfer-Encoding": [
+                  "chunked"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Pragma": "no-cache"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ]
+}
