@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/Министерство Чистоты.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,8 +149,8 @@
   "active": "57e6cad9a652e701",
   "lastOpenFiles": [
     "content/notes/График уборки.md",
-    "content/_index.md",
     "content/notes/Министерство Чистоты.md",
+    "content/_index.md",
     "content/notes/Конституция Доброго Утра.md",
     "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
