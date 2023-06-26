@@ -1,5 +1,5 @@
 # Главная страница Коммуны
-![[content/notes/attachments/Pasted image 20230626041937.png]]
+![[notes/attachments/Pasted image 20230626041937.png]]
 ## Партия
 1. [[notes/Конституция Доброго Утра|Конституция Доброго Утра]]
 
