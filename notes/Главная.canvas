@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"44152018c2f7c888","x":660,"y":-300,"width":2120,"height":2520,"color":"4","type":"group","label":"Министерство Чистоты"},
-		{"id":"5e3889a5a18f90d1","x":-880,"y":229,"width":1120,"height":2651,"color":"1","type":"file","file":"content/notes/Конституция Доброго Утра.md"},
 		{"id":"563d5710ac0dc2e7","x":680,"y":-280,"width":1133,"height":1280,"type":"file","file":"content/notes/Министерство Чистоты.md"},
 		{"id":"a802f9907fee4cea","x":766,"y":1195,"width":961,"height":1005,"type":"file","file":"content/notes/Правила Чистоты.md"},
-		{"id":"a069ebb25e40ab96","x":2120,"y":-280,"width":640,"height":2480,"type":"file","file":"content/notes/График уборки.md"}
+		{"id":"a069ebb25e40ab96","x":2120,"y":-280,"width":640,"height":2480,"type":"file","file":"content/notes/График уборки.md"},
+		{"id":"5e3889a5a18f90d1","x":-600,"y":-300,"width":1240,"height":2500,"color":"1","type":"file","file":"content/notes/Конституция Доброго Утра.md"}
 	],
 	"edges":[
 		{"id":"25cc211de6cfb0c7","fromNode":"563d5710ac0dc2e7","fromSide":"bottom","toNode":"a802f9907fee4cea","toSide":"top"},
