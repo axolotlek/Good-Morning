@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5e3889a5a18f90d1","x":-880,"y":-105,"width":943,"height":2865,"type":"file","file":"content/notes/Конституция Доброго Утра.md"},
+		{"id":"563d5710ac0dc2e7","x":421,"y":38,"width":400,"height":400,"type":"file","file":"content/notes/Министерство Чистоты.md"},
+		{"id":"a802f9907fee4cea","x":593,"y":793,"width":400,"height":400,"type":"file","file":"content/notes/Правила Чистоты.md"},
+		{"id":"a069ebb25e40ab96","x":1354,"y":229,"width":400,"height":400,"type":"file","file":"content/notes/График уборки.md"}
+	],
+	"edges":[]
+}
