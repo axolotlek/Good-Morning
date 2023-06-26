@@ -15,9 +15,9 @@
               "state": {
                 "file": "content/notes/Главная.canvas",
                 "viewState": {
-                  "x": 1352.4783481322777,
-                  "y": 1105.666741401913,
-                  "zoom": -1.9547445887942665
+                  "x": 1090,
+                  "y": 960,
+                  "zoom": -1.7207495518820695
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md",
+                "file": "content/notes/Главная.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md",
+                "file": "content/notes/Главная.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Конституция Доброго Утра.md"
+                "file": "content/notes/Главная.canvas"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "57e6cad9a652e701",
   "lastOpenFiles": [
+    "content/notes/attachments/Главная.png",
     "content/notes/График уборки.md",
     "content/notes/Главная.canvas",
     "content/notes/attachments/График уборки.pdf",
