@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/Правила Чистоты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/Правила Чистоты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md",
+                "file": "content/notes/Правила Чистоты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Министерство Чистоты.md"
+                "file": "content/notes/Правила Чистоты.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e6cad9a652e701",
+  "active": "4baa6f248148d900",
   "lastOpenFiles": [
-    "content/notes/График уборки.md",
-    "content/notes/Министерство Чистоты.md",
-    "content/_index.md",
     "content/notes/Конституция Доброго Утра.md",
+    "content/notes/Правила Чистоты.md",
+    "content/notes/Министерство Чистоты.md",
+    "content/notes/График уборки.md",
+    "content/_index.md",
     "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
