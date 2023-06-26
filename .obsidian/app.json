@@ -6,10 +6,10 @@
   "newLinkFormat": "absolute",
   "trashOption": "local",
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A3",
+    "includeName": false,
+    "pageSize": "Legal",
     "landscape": false,
-    "margin": "2",
+    "margin": "0",
     "downscalePercent": 100
   }
 }
