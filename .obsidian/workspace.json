@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/закупки/_закупки.md",
+                "file": "content/notes/7.06.23-....md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/закупки/_закупки.md",
+                "file": "content/notes/7.06.23-....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/закупки/_закупки.md",
+                "file": "content/notes/7.06.23-....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/закупки/_закупки.md"
+                "file": "content/notes/7.06.23-....md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "57e6cad9a652e701",
   "lastOpenFiles": [
+    "content/notes/закупки/_закупки.md",
+    "content/notes/7.06.23-....md",
     "content/notes/Министерство Чистоты.md",
     "content/notes/Конституция Доброго Утра.md",
     "content/notes/График уборки.md",
-    "content/notes/закупки/_закупки.md",
     "content/notes/Главная.canvas",
     "content/notes/attachments/Главная.png",
     "content/notes/attachments/График уборки.pdf",
