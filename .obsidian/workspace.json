@@ -11,14 +11,11 @@
             "id": "57e6cad9a652e701",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/Главная.canvas",
-                "viewState": {
-                  "x": 1420.4338687934353,
-                  "y": 845.9523851587372,
-                  "zoom": -1.162144873460887
-                }
+                "file": "content/notes/закупки/_закупки.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Главная.canvas",
+                "file": "content/notes/закупки/_закупки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Главная.canvas",
+                "file": "content/notes/закупки/_закупки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Главная.canvas"
+                "file": "content/notes/закупки/_закупки.md"
               }
             }
           }
@@ -151,16 +148,16 @@
   },
   "active": "57e6cad9a652e701",
   "lastOpenFiles": [
-    "content/notes/attachments/Главная.png",
-    "content/notes/График уборки.md",
-    "content/notes/Главная.canvas",
-    "content/notes/attachments/График уборки.pdf",
-    "content/notes/Правила Чистоты.md",
     "content/notes/Министерство Чистоты.md",
     "content/notes/Конституция Доброго Утра.md",
+    "content/notes/График уборки.md",
+    "content/notes/закупки/_закупки.md",
+    "content/notes/Главная.canvas",
+    "content/notes/attachments/Главная.png",
+    "content/notes/attachments/График уборки.pdf",
+    "content/notes/Правила Чистоты.md",
     "content/_index.md",
     "content/notes/attachments/Pasted image 20230626041937.png",
-    "content/notes/закупки/_закупки.md",
     "content/notes/Заку.md",
     "content/notes/закупки",
     "content/notes/test.md",
