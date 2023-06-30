@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/дневники/_index.md",
+                "file": "content/notes/Дневники Коммунаров.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/дневники/_index.md",
+                "file": "content/notes/Дневники Коммунаров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/дневники/_index.md",
+                "file": "content/notes/Дневники Коммунаров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/дневники/_index.md"
+                "file": "content/notes/Дневники Коммунаров.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e6cad9a652e701",
+  "active": "4baa6f248148d900",
   "lastOpenFiles": [
+    "content/notes/Главная.canvas",
+    "content/notes/дневники/хрущ/Поездка на Летнюю радугу.md",
+    "content/notes/дневники/хрущ",
+    "content/notes/дневники/хрущ/_index.md",
     "content/notes/Дневники Коммунаров.md",
-    "content/notes/дневники/_index.md",
     "content/notes/дневники",
     "content/notes/График уборки.md",
     "content/_index.md",
@@ -162,7 +165,6 @@
     "content/notes/attachments/Screenshot_20230627-135014.png",
     "content/notes/Министерство Чистоты.md",
     "content/notes/Конституция Доброго Утра.md",
-    "content/notes/Главная.canvas",
     "content/notes/attachments/Главная.png",
     "content/notes/attachments/График уборки.pdf",
     "content/notes/Правила Чистоты.md",
