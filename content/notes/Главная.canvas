@@ -1,14 +1,11 @@
 {
 	"nodes":[
-		{"id":"44152018c2f7c888","x":660,"y":-300,"width":2120,"height":2520,"color":"4","type":"group","label":"Министерство Чистоты"},
-		{"id":"563d5710ac0dc2e7","x":680,"y":-280,"width":1133,"height":1280,"type":"file","file":"content/notes/Министерство Чистоты.md"},
-		{"id":"a802f9907fee4cea","x":766,"y":1195,"width":961,"height":1005,"type":"file","file":"content/notes/Правила Чистоты.md"},
-		{"id":"a069ebb25e40ab96","x":2120,"y":-280,"width":640,"height":2480,"type":"file","file":"content/notes/График уборки.md"},
-		{"id":"5e3889a5a18f90d1","x":-600,"y":-300,"width":1240,"height":2500,"color":"1","type":"file","file":"content/notes/Конституция Доброго Утра.md"}
+		{"id":"44152018c2f7c888","type":"group","x":660,"y":-300,"width":1153,"height":2520,"color":"4","label":"Министерство Чистоты"},
+		{"id":"563d5710ac0dc2e7","type":"file","file":"content/notes/Министерство Чистоты.md","x":680,"y":-280,"width":1133,"height":1280},
+		{"id":"a802f9907fee4cea","type":"file","file":"content/notes/Правила Чистоты.md","x":766,"y":1195,"width":961,"height":1005},
+		{"id":"5e3889a5a18f90d1","type":"file","file":"content/notes/Конституция Экспериментальной Коммуны.md","x":-600,"y":-300,"width":1240,"height":2500,"color":"1"}
 	],
 	"edges":[
-		{"id":"25cc211de6cfb0c7","fromNode":"563d5710ac0dc2e7","fromSide":"bottom","toNode":"a802f9907fee4cea","toSide":"top"},
-		{"id":"e1d80990ee834d9b","fromNode":"563d5710ac0dc2e7","fromSide":"right","toNode":"a069ebb25e40ab96","toSide":"left"},
-		{"id":"94837de46f1ac956","fromNode":"a802f9907fee4cea","fromSide":"right","toNode":"a069ebb25e40ab96","toSide":"left"}
+		{"id":"25cc211de6cfb0c7","fromNode":"563d5710ac0dc2e7","fromSide":"bottom","toNode":"a802f9907fee4cea","toSide":"top"}
 	]
 }

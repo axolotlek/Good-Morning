@@ -23,19 +23,11 @@
             "id": "02b50ccbb5b9c271",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/attachments/График уборки.pdf"
-              }
-            }
-          },
-          {
-            "id": "5095c9e60f66f4bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "content/notes/TEST.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -88,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/attachments/График уборки.pdf",
+                "file": "content/notes/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/attachments/График уборки.pdf",
+                "file": "content/notes/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/attachments/График уборки.pdf"
+                "file": "content/notes/TEST.md"
               }
             }
           },
@@ -226,36 +218,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5095c9e60f66f4bc",
+  "active": "02b50ccbb5b9c271",
   "lastOpenFiles": [
-    "content/notes/attachments/Главная.png",
-    "content/templates/post.md",
-    "content/notes/дневники/хрущ/_index.md",
+    "content/notes/График уборки.md",
+    "content/notes/Главная.canvas",
+    "content/notes/~syncthing~TEST.md.tmp",
+    "content/notes/Воплощение системы оплаты.md",
     "content/notes/TEST.md",
-    "content/notes/Правила Чистоты.md",
+    "content/notes/Untitled.md",
     "content/notes/Поиск помещения.md",
-    "content/notes/Министерство Чистоты.md",
-    "content/notes/Конституция Экспериментальной Коммуны.md",
+    "content/_index.md",
     "content/notes/Интро.md",
     "content/notes/Дневники Коммунаров.md",
-    "content/notes/Главная.canvas",
-    "content/notes/закупки/2. 7.06.23-....md",
-    "content/notes/закупки/_закупки.md",
-    "content/notes/закупки/1. 27.04.23-06.04.23.md",
-    "content/notes/attachments/Pasted image 20230626041937.png",
-    "content/notes/attachments/График уборки.pdf",
-    "content/notes/Воплощение системы оплаты.md",
-    "content/notes/График уборки.md",
-    "content/notes/Untitled.md",
-    "content/_index.md",
     "screenshot.png",
     "content/notes/дневники/хрущ/Поездка на Летнюю радугу.md",
     "content/notes/дневники/хрущ",
+    "content/notes/дневники/хрущ/_index.md",
     "content/notes/дневники",
+    "content/notes/закупки/_закупки.md",
+    "content/notes/закупки/2. 7.06.23-....md",
+    "content/notes/закупки/1. 27.04.23-06.04.23.md",
     "content/notes/attachments/Screenshot_20230627-135524.png",
     "content/notes/attachments/Screenshot_20230627-135513.png",
     "content/notes/attachments/Screenshot_20230627-135248.png",
     "content/notes/attachments/Screenshot_20230627-135014.png",
+    "content/notes/Министерство Чистоты.md",
+    "content/notes/Конституция Доброго Утра.md",
+    "content/notes/attachments/Главная.png",
+    "content/notes/attachments/График уборки.pdf",
+    "content/notes/Правила Чистоты.md",
+    "content/notes/attachments/Pasted image 20230626041937.png",
     "content/notes/Заку.md",
     "content/notes/закупки",
     "content/notes/test.md",
